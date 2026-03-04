@@ -1,0 +1,52 @@
+{
+  "version": "3.111.36326.0",
+  "course_id": "5lw6QBQytL6",
+  "title": "new things",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6nNMO5O08SX",
+      "title": "Intro Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6JWufUKwxRP",
+      "title": "Untitled Slide",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5jdoAa6se3H",
+      "title": "main page",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6ku5i7H8umR",
+      "title": "Which computer part is known as the \"brain\" of the computer?",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5qV2egkEyxP",
+      "title": "Which component is responsible for storing data permanently?",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6RWt0akHZYU",
+      "title": "Quiz Results",
+      "scene_index": "1.6"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 658
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
